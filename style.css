@@ -1,0 +1,58 @@
+<style>
+p{
+  text-align: justify;
+}
+  .fullCard {
+    width: 500px;
+    border: 2px solid yellow;
+    border-radius: 25px;
+    margin: 10px 10px;
+    padding: 0px;
+  }
+  .cardContent {
+    padding: 5px;
+  }
+  .cardText {
+    margin-bottom: 3px;
+  }
+  .thick-blue-border{
+    border-color: blue;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 25px;
+  }
+   #taha-photo-form{
+    background-color: green;
+   }
+  .red-text {
+    color: red;
+  }
+  .blue-text{
+  color: blue;
+  }
+  .silver-background{
+    background-color: silver;
+  }
+  .orange-background{
+    background-color: orange;
+  }
+
+  h2 {
+    font-family: Lobster, monospace;
+  }
+
+  p {
+    font-size: 16px;
+    font-family: monospace;
+  }
+  .smaller-image {
+    width: 100px;
+    border: 2px solid green;
+  }
+  .box {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    text-align: center;
+  }
+  </style>
